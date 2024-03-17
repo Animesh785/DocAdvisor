@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai
 import os 
-import plotly.graph_objects as go
+
 from dotenv import load_dotenv
 load_dotenv()   # load env varibles 
 from PIL import Image 
